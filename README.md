@@ -1,0 +1,2 @@
+# test-locales
+Testing locales
