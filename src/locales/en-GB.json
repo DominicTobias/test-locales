@@ -1,4 +1,9 @@
 {
   "global-back": "Go back",
-  "global-fwd": "Go forward"
+  "global-fwd": "Go forward",
+  "someNested": {
+    "value": "Hi",
+    "andArray": ["Yes", "Nope"]
+  },
+  "rather.long": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit volutpat lorem, eu viverra neque tristique sit amet. Vestibulum vulputate nunc vitae auctor ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent blandit leo quis faucibus cursus."
 }
