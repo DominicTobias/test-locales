@@ -10,7 +10,7 @@ const entries = {
     "value": "Hi",
     "andArray": [
       "Yes-Maybe",
-      "Nope"
+      "Nope?"
     ]
   }
 };
