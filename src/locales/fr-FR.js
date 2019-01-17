@@ -1,6 +1,5 @@
 /* eslint disable */
 const entries = {
-  "apple": "Are pretty g00d",
   "lychee": "Are pretty greatez",
   "global-fwd": "Go forward___--",
   "global-back": "Le new value :)\n\n\nSpace!\nMore Space!",
