@@ -9,7 +9,8 @@ const entries = {
       "Yes-Maybe",
       "Nope?"
     ]
-  }
+  },
+  "global-fwd": "Go fwd"
 };
 
 export default entries;
