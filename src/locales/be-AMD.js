@@ -1,0 +1,3 @@
+defined({
+  hello: 'world',
+});
