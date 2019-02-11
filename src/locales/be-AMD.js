@@ -1,3 +1,3 @@
-defined({
+define({
   hello: 'world',
 });
