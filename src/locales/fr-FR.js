@@ -3,7 +3,7 @@ const entries = {
   boBble: 'hat',
   lychee: 'Are pretty greatez',
   country: [
-    'Another country?',
+    'Allemagne',
     'Nope?'
   ],
   cSomething: 'yeahc',
