@@ -2,8 +2,7 @@
 const entries = {
   'adding-apple': 'Pomme',
   'adding-lemon': 'citron',
-  'adding-orange': 'citron',
-  'keys-only-test': ''
+  'adding-orange': 'citron'
 };
 
 export default entries;
