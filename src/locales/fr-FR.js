@@ -4,6 +4,7 @@ const entries = {
   'adding-lemon': 'citron',
   'adding-orange': 'citron',
   'keys-only-test': '',
+  'only-for-french': 'Only for french',
   'copy-value-to-all': 'This should be the same in all languages'
 };
 
