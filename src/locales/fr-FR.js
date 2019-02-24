@@ -1,3 +1,3 @@
-const entries = [];
+const entries = {};
 
 export default entries;
