@@ -10,5 +10,6 @@
   "adding-lemon": "Lemon",
   "adding-orange": "Lemon",
   "keys-only-test": "Value only for english",
-  "global-nav-back": "Go backoo"
+  "global-nav-back": "Go backoo",
+  "copy-value-to-all": "This should be the same in all languages"
 }
