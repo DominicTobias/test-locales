@@ -1,5 +1,6 @@
 /* eslint disable */
 const entries = {
+  'rather.long': 'Very longe',
   'adding-apple': 'Pomme',
   'adding-lemon': 'citron',
   'adding-orange': 'citron',
