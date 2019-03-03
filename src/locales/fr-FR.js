@@ -1,5 +1,6 @@
 /* eslint disable */
 const entries = {
+  pear: 'Poire',
   'adding-apple': 'Pomme',
   'adding-lemon': 'citron',
   'adding-orange': 'citron',
