@@ -1,0 +1,15 @@
+{
+  "country": [
+    "Deutschland",
+    "Tschechisch",
+    "Großbritannien",
+    "Schweden"
+  ],
+  "rather.long": "Lorem ipsum dolor sitzt amet, consectetur adipiscing elit. Sed hendrerit volptpat lorem, eu viverra neque tristique sitzen amet. Vestibulum vulputate Nunc Vitae Auctor ornare. Pellentesque habitant morbi tristique senectus et netus und malesuada fames ac turpis egestas. Praesent Blandit Leo Quis Faucibus Curo.",
+  "adding-apple": "Apfel",
+  "adding-lemon": "Zitrone",
+  "adding-orange": "Orange",
+  "keys-only-test": "Wert nur für Englisch",
+  "global-nav-back": "Geh zurück",
+  "copy-value-to-all": "Dies sollte in allen Sprachen gleich sein"
+}
