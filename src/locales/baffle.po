@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2019-03-15T07:55:45.221Z\n"
+"PO-Revision-Date: 2019-03-15T07:55:45.221Z\n"
+
+msgid "adding-apple"
+msgstr "apple"
+
+msgid "adding-lemon"
+msgstr "Lemon"
+
+msgid "adding-orange"
+msgstr "Orange"
+
+msgid "copy-value-to-all"
+msgstr "This should be the same in all languages"
+
+msgid "country"
+msgstr ""
+"Germany\n"
+"Czech\n"
+"United Kingdom\n"
+"Georgia"
+
+msgid "global-nav-back"
+msgstr "Go back"
+
+msgid "keys-only-test"
+msgstr "Value only for english"
+
+msgid "rather.long"
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit "
+"volptpat lorem, eu viverra neque tristique sit amet. Vestibulum vulputate "
+"nunc vitae auctor ornare. Pellentesque habitant morbi tristique senectus et "
+"netus et malesuada fames ac turpis egestas. Praesent blandit leo quis "
+"faucibus curo."
